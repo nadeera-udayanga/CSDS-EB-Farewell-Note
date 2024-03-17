@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+Sinhala:wght@100..900&family=Petit+Formal+Script&display=swap');
+@font-face {
+    font-family: brittanye;
+    src: url(font/BrittanySignature.ttf);
+}
+.card{
+    display: block;
+    margin: auto;
+    margin-top:4%;
+    margin-bottom: 4%;
+    justify-content: center;
+    max-width: 89%;
+    
+    
+    border-radius: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.11), 0 6px 20px 0 rgba(0, 0, 0, 0.15);
+    
+}
+
+h3{
+    font-family: 'brittanye';
+    font-size: 25px;
+    margin-top: 5%;
+    
+}
+p{
+    font-family: "Noto Serif Sinhala", serif;
+    font-size: 75%;
+    margin-top: 5%;
+}
