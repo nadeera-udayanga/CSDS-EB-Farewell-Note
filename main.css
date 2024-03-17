@@ -1,16 +1,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Noto+Serif+Sinhala:wght@100..900&family=Petit+Formal+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Sinhala:wght@100..900&family=Noto+Serif+Sinhala:wght@100..900&family=Petit+Formal+Script&display=swap');
+
 @font-face {
-    font-family: brittanye;
-    src: url(font/BrittanySignature.ttf);
-}
-@font-face {
-    font-family: astro11;
-    src: url(font/Astro11.ttf);
+    font-family: samarakaran;
+    src: url(font/SamarkanNormal.ttf);
 }
 .card{
     display: block;
     margin: auto;
-    margin-top:4%;
+    margin-top:10%;
     margin-bottom: 4%;
     justify-content: center;
     max-width: 89%;
@@ -22,9 +20,9 @@
 }
 
 h3{
-    font-family: 'astro11';
+    font-family: 'samarakaran', sans-serif;
     font-size: 25px;
-    margin-top: 4%;
+    margin-top: 2%;
     
 }
 p{
