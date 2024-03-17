@@ -3,6 +3,10 @@
     font-family: brittanye;
     src: url(font/BrittanySignature.ttf);
 }
+@font-face {
+    font-family: astro11;
+    src: url(font/Astro11.ttf);
+}
 .card{
     display: block;
     margin: auto;
@@ -18,8 +22,8 @@
 }
 
 h3{
-    font-family: 'brittanye';
-    font-size: 25px;
+    font-family: 'astro11';
+    font-size: 20px;
     margin-top: 5%;
     
 }
